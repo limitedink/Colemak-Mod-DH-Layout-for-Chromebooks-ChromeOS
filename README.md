@@ -12,7 +12,7 @@ To install this extension on your Chromebook:
 3. Turn on "Developer mode" in the top right corner.
 4. Click "Load unpacked" and select the folder where you saved the extension files.
 5. Go to your Chromebook settings by clicking the clock in the bottom right corner and selecting the gear icon.
-6. Click on "Advanced" at the bottom of the page and then click on "Languages and input" in the "Languages and input" section.
+6. Click on "Advanced" at the bottom of the page and then click on "Languages and input".
 7. Click on "Input method" and select "Colemak Mod-DH".
 8. Click on "Add".
 9. Colemak Mod-DH should now appear as an input method. Click on the Colemak Mod-DH keyboard icon in the bottom right corner of the screen to switch to the new layout.
