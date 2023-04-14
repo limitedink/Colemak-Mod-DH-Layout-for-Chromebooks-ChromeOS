@@ -20,3 +20,7 @@ To install this extension on your Chromebook:
 The new keyboard layout should now be active in all applications on your Chromebook.
 
 PS: Please note that this extension only affects the keyboard layout within the Chrome OS environment and does not change the keyboard layout on the login screen of your Chromebook. When you log in to your Chromebook, the keyboard layout will automatically switch to the Colemak Mod-DH layout if it was the last layout you used before logging out.
+
+Link to the original reddit posts:
+[Post in Colemak sub-reddit](https://github.com/limitedink/Colemak-Mod-DH-Layout-for-Chromebooks-ChromeOS)
+[Post in KeyboardLayouts sub-reddit](https://www.reddit.com/r/KeyboardLayouts/comments/11o7wc2/colemak_moddh_for_chromebookschromeos/)
