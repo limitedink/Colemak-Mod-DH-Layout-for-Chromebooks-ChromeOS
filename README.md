@@ -17,7 +17,7 @@ To install this extension on your Chromebook:
 8. Click on "Add".
 9. Colemak Mod-DH should now appear as an input method. Click on the Colemak Mod-DH keyboard icon in the bottom right corner of the screen to switch to the new layout.
     
-The new keyboard layout should now be active in all applications on your Chromebook.
+The new keyboard layout should now be active in all applications on your Chromebook. Including the on-screen keyboard in tablet mode. (while in tablet mode you can quickly switch between the layouts using the ... at the bottom left same as switching languages or to any other keyboard emojis etc.)
 
 PS: Please note that this extension only affects the keyboard layout within the Chrome OS environment and does not change the keyboard layout on the login screen of your Chromebook. When you log in to your Chromebook, the keyboard layout will automatically switch to the Colemak Mod-DH layout if it was the last layout you used before logging out.
 
